@@ -1,3 +1,3 @@
 # testingMd
 
-Look at [index](./index.md).
+Look at [index](./Index.md).
